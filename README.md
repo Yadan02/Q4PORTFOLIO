@@ -1,5 +1,5 @@
 <html>
-<head><center>Intro To Telecom</center></head>
+<head>Intro To Telecom</head>
 
 <body>
 
