@@ -12,7 +12,12 @@
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jmymVdxbKWU?si=91IoUq2f8HF04H8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+<h2>Interesting facts about Telecommunication</h2>
 
+<ol>
+<li>The information transmitted can be in various forms, including voice, data, text, images, or video. </li>
+<li>Telecommunication relies on electronic or electromagnetic signals to transmit information over distances. </li>
+</ol>
   
 </body>
 
