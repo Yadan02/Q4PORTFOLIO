@@ -7,6 +7,7 @@
   industry and its related technologies. The purpose of a telecommunication system is to exchange information among users of the system. This information exchange can take place in a variety of ways, for example, multiparty voice communications, television, electronic mail, and electronic message exchange. </p>
 </table>
 
+<p>An introduction to telecommunications reveals how we connect and exchange information over distances, from the earliest forms of communication to modern technologies like the internet. The history of telecom is fascinating, showing how technologies like the telegraph and telephone revolutionized communication. Understanding the fundamental concepts of signal transmission, switching, and networks is key to appreciating the complex systems that support our daily lives. </p>
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jmymVdxbKWU?si=91IoUq2f8HF04H8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
