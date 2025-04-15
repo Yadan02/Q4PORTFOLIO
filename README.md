@@ -17,6 +17,7 @@
 <ol>
 <li>The information transmitted can be in various forms, including voice, data, text, images, or video. </li>
 <li>Telecommunication relies on electronic or electromagnetic signals to transmit information over distances. </li>
+<li>Telecommunication technology has evolved significantly, from early telegraph systems to modern digital networks and wireless communication. </li>
 </ol>
   
 </body>
